@@ -1,6 +1,6 @@
 Gem::Specification.new do |g|
 	g.name = "shia"
-	g.version = "0.0.4"
+	g.version = "0.0.5"
 	g.date = "2012-02-18"	
 	g.name = "shia"
 	g.summary = "shia!"
