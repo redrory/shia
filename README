@@ -1,4 +1,7 @@
 Author: Rory Walker
 Date: Feb 20th, 2012
+Email :redrory
 
 Simple santizing gem for ruby.
+
+Goal: Gem that ensure all data passing through is secure.
